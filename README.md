@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MukuruH
 - 👀 I’m interested in AI, Blockchain and Finance & Managment Systems
 - 🌱 I’m currently learning Machine learning with python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me mukuruhamza@gmail.com
 
 <!---
 MukuruH/MukuruH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
