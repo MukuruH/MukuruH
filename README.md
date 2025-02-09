@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MukuruH
-- 👀 I’m interested in AI, Blockchain and Health
+- 👀 I’m interested in AI, Blockchain and Finance & Managment Systems
 - 🌱 I’m currently learning Machine learning with python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
